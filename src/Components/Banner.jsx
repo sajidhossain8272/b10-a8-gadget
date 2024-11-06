@@ -5,7 +5,7 @@ const Banner = () => {
         <img
           width={1062}
           className='lg:h-[563px] rounded-3xl'
-          src='/src/assets/banner.jpg'
+          src='/banner.jpg'
           alt=''
         />
       </div>
